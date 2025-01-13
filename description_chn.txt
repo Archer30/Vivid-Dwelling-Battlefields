@@ -6,10 +6,10 @@
 这个mod通过为每个生物巢穴添加了独特的战场背景。
 
 内置功能：
-所有低级巢穴都有守卫
+1. 所有低级巢穴都有守卫
 可删除以下文件来关闭此功能：
 ...\Mods\Vivid Dwelling Battlefields\EraPlugins\AfterWoG\guarded low level dwellings.bin
 
-在生物巢穴的战斗中没有战场障碍物
+2. 在生物巢穴的战斗中没有战场障碍物
 可通过编辑这个文件来开关此功能：
 ...\Mods\Vivid Dwelling Battlefields\Lang\vivid dwellings battlefields.json
